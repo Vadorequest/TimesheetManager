@@ -1,0 +1,30 @@
+{
+  "name": "timesheet-manager",
+  "version": "0.0.0",
+  "description": "Manager for company timesheet",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "hapi": "12.1.0",
+    "lodash": "^4.0.0",
+    "rethinkdb": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadorequest/TimesheetManager.git"
+  },
+  "keywords": [
+    "Timesheet",
+    "feuille de temps"
+  ],
+  "author": "Vadorequest",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Vadorequest/TimesheetManager/issues"
+  },
+  "homepage": "https://github.com/Vadorequest/TimesheetManager#readme"
+}
